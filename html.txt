@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Static Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website!</h1>
+    </header>
+
+    <main>
+        <p>This is a simple static HTML file.</p>
+        <p>It contains basic structure like a head, body, header, and main content.</p>
+        
+        <h2>Key Features of HTML</h2>
+        <ul>
+            <li>Defines the structure of a webpage.</li>
+            <li>Uses **tags** (like $<h1>$ and $<body>$) to mark up content.</li>
+            <li>Doesn't require a server to run—you can open it directly in a web browser.</li>
+        </ul>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Simple Web Page</p>
+    </footer>
+
+</body>
+</html>
